@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import {HEROES} from '../fake-heroes';
+import { Hero } from '../hero';
 
 
 @Injectable()
